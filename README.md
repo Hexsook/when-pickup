@@ -1,4 +1,12 @@
-# WhenPickup - Select items you want to pick up!
+<h1 align="center">
+	<img
+		alt="WhenPickup"
+		src="https://i.imgur.com/VX921JB.png">
+</h1>
+<h3 align="center">
+  WhenPickup - Select items you want to pick up!
+</h3>
+
 
 #### Useful links
 * **Release Page** - release page for the plugin.
