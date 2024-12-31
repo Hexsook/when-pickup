@@ -1,8 +1,12 @@
 # WhenPickup - Select items you want to pick up!
 
 #### Useful links
-* **Release Page** - release page for the plugin. (Unlinked)
-* **Downloads** - Download the latest version. (Unlinked)
+* **Release Page** - release page for the plugin.
+  * [**SpigotMC**](https://www.spigotmc.org/resources/whenpickup-select-items-you-want-to-pick-up.121605/)
+  * [**MineBBS**](https://www.minebbs.com/resources/deluxechatchannels.10056/)
+* **Downloads** - Download the latest version. (Unavailable)
+  * [**SpigotMC**](https://www.spigotmc.org/resources/whenpickup-select-items-you-want-to-pick-up.121605/history) 
+  * [**MineBBS**](https://www.minebbs.com/resources/whenpickup.10128/download/)
 
 ### 📥 How to install WhenPickup to your server?
 DeluxeChatChannels runs on **Spigot/Paper** servers and requires **Java 1.8** or above.
