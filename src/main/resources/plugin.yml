@@ -1,0 +1,5 @@
+main: me.hexsook.whenpickup.WhenPickup
+name: WhenPickup
+version: 1.0
+author: "Hexsook"
+api-version: 1.13
