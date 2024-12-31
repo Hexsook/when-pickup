@@ -4,7 +4,7 @@
 * **Release Page** - release page for the plugin.
   * [**SpigotMC**](https://www.spigotmc.org/resources/whenpickup-select-items-you-want-to-pick-up.121605/)
   * [**MineBBS**](https://www.minebbs.com/resources/deluxechatchannels.10056/)
-* **Downloads** - Download the latest version. (Unavailable)
+* **Downloads** - Download the latest version.
   * [**SpigotMC**](https://www.spigotmc.org/resources/whenpickup-select-items-you-want-to-pick-up.121605/history) 
   * [**MineBBS**](https://www.minebbs.com/resources/whenpickup.10128/download/)
 
